@@ -1,0 +1,183 @@
+ACT$INI$1$True
+INI$UM $2$False
+ALU$MIN$1$True
+MIN$UM $1$False
+AME$RIC$1$True
+RIC$IUM $1$False
+ANT$IMO$1$True
+IMO$INE $1$False
+ARG$ENT :ON $1:1$True
+ARS$ENI$1$True
+ENI$C $1$False
+C $C  $2$False
+AST$ATE $1$True
+AZO$TE $1$True
+BAR$YUM $1$True
+BER$KEL:RYL$1:1$True
+KEL$IUM $1$False
+RYL$LIU$1$False
+LIU$M $3$False
+M $M  $31$False
+BIS$MUT$1$True
+MUT$H $1$False
+H $H  $1$False
+BOH$RIU$1$True
+RIU$M $4$False
+BOR$E :GIU$1:1$True
+E $E  $9$False
+BRO$ME $1$True
+CAD$MIU$1$True
+MIU$M $3$False
+CAL$CIU:IFO$1:1$True
+CIU$M $2$False
+IFO$RNI$1$False
+RNI$UM $1$False
+CAR$BON$1$True
+BON$E $1$False
+CER$YUM $1$True
+CÉS$IUM $1$True
+CHL$ORE $1$True
+CHR$OME $1$True
+COB$ALT $1$True
+CUI$VRE $1$True
+CUR$IUM :E $1:1$True
+DAR$MST$1$True
+MST$ADT$1$False
+ADT$IUM $1$False
+DUB$NIU$1$True
+NIU$M $6$False
+DYS$PRO$1$True
+PRO$SIU:MET:TAC$1:1:1$True
+SIU$M $2$False
+EIN$STE$1$True
+STE$INI$1$False
+ERB$IUM $2$True
+ETA$IN $1$True
+EUR$OPI$1$True
+OPI$UM $1$False
+FER$MIU$1$True
+FLU$OR $1$True
+FRA$NCI$1$True
+NCI$UM $1$False
+GAD$OLI$1$True
+OLI$NIU$1$False
+GAL$LIU$1$True
+GER$MAN$1$True
+MAN$IUM :GAN$1:1$True
+HAF$NIU$1$True
+HAS$SIU$1$True
+HÉL$IUM $1$True
+HOL$MIU$1$True
+HYD$ROG$1$True
+ROG$ÈNE $1$False
+IND$IUM $1$True
+IOD$E $1$True
+IRI$DIU$1$True
+DIU$M $3$False
+KRY$PTO$1$True
+PTO$N $1$False
+N $N  $2$False
+LAN$THA$1$True
+THA$NE :LLI$1:1$True
+LAW$REN$1$True
+REN$CIU$1$False
+LIT$HIU$1$True
+HIU$M $2$False
+LUT$ETI$1$True
+ETI$UM $1$False
+MAG$NÉS$1$True
+NÉS$IUM $1$False
+GAN$ÈSE $1$False
+MEI$TNE$1$True
+TNE$RIU$1$False
+MEN$DEL$1$True
+DEL$EVI$1$False
+EVI$UM $1$False
+MER$CUR$1$True
+MOL$YBD$1$True
+YBD$ÈNE $1$False
+NEO$DYM $1$True
+NÉO$N $1$True
+NEP$TUN$1$True
+TUN$IUM :GST$1:1$True
+NIC$KEL $1$True
+NIO$BIU$1$True
+BIU$M $2$False
+NOB$ELI$1$True
+ELI$UM $1$False
+OSM$IUM $1$True
+OXY$GÈN$1$True
+GÈN$E $1$False
+PAL$LAD$1$True
+LAD$IUM $1$False
+PHO$SPH$1$True
+SPH$ORE $1$False
+PLA$TIN$1$True
+TIN$E :IUM $1:1$False
+PLO$MB $1$True
+PLU$TON$1$True
+TON$IUM $1$False
+POL$ONI$1$True
+ONI$UM $1$False
+POT$ASS$1$True
+ASS$IUM $1$False
+PRA$SÉO$1$True
+SÉO$DYM$1$False
+DYM$E $1$False
+MET$HIU$1$False
+TAC$TIN$1$False
+RAD$IUM :ON $1:1$True
+RHE$NIU$1$True
+RHO$DIU$1$True
+RUB$IDI$1$True
+IDI$UM $1$False
+RUT$HEN:HER$1:1$True
+HEN$IUM $1$False
+HER$FOR$1$False
+FOR$DIU$1$False
+SAM$ARI$1$True
+ARI$UM $1$False
+SCA$NDI$1$True
+NDI$UM $1$False
+SEA$BOR$1$True
+GIU$M $1$False
+SÉL$ÉNI$1$True
+ÉNI$UM $1$False
+SIL$ICI$1$True
+ICI$UM $1$False
+SOD$IUM $1$True
+STR$ONT$1$True
+ONT$IUM $1$False
+SOU$FRE $1$True
+TAN$TAL$1$True
+TAL$E $1$False
+TEC$HNE$1$True
+HNE$TIU$1$False
+TIU$M $2$False
+TEL$LUR$1$True
+LUR$E $1$False
+TER$BIU$1$True
+LLI$UM $1$False
+THO$RIU$1$True
+THU$LIU$1$True
+TIT$ANE $1$True
+GST$ÈNE $1$False
+UNU$NBI:NHE:NOC:NPE:NQU:NSE:NTR:NIU$1:1:1:1:1:1:1:1$True
+NBI$UM $1$False
+NHE$XIU$1$False
+XIU$M $1$False
+NOC$TIU$1$False
+NPE$NTI$1$False
+NTI$UM $1$False
+NQU$ADI$1$False
+ADI$UM $2$False
+NSE$PTI$1$False
+PTI$UM $1$False
+NTR$IUM $1$False
+URA$NIU$1$True
+VAN$ADI$1$True
+XÉN$ON $1$True
+YTT$ERB:RIU$1:1$True
+ZIN$C $1$True
+ZIR$CON$1$True
+CON$IUM $1$False
